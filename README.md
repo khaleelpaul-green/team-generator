@@ -11,7 +11,6 @@ The task was to create a console application that takes user input from a series
 
 * Inquirer - for collecting user data
 * Jest - to run unit tests
-* File system - to write HTML file containing javascript data
 
 ### Installing
 
